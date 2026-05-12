@@ -14,3 +14,6 @@ next.user-config.*
 node_modules
 .next/
 .DS_Store
+
+# Repositório aninhado (nunca versionar como submódulo acidental)
+cliente_ph/
